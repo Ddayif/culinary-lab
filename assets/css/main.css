@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#bienvenida{
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-image: url(../img/bg-header.jpg);
+	height: 700px;
+}
+
+.navbar-default{
+	background-color: transparent;
+	border: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: 20px;
+    padding-bottom: 217px;
+}
+
