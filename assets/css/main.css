@@ -97,7 +97,8 @@
 
 .imagenes{
 	padding: 30px 0;
-	padding-left: 30px;
+	padding-left: 33px;
+	margin-bottom: 343px;
 }
 
 .people{
@@ -105,4 +106,51 @@
 	font-weight: bolder;
 	padding-top: 80px;
 	padding-bottom: 50px;
+}
+
+.nombre {
+    margin-top: -264px;
+    color: whitesmoke;
+    font-size: 36px;
+    padding-left: 30px;
+}
+
+.flecha{
+	width: 15%;
+    bottom: 100px;
+}
+
+.row-mio{
+    margin-right: 86px;
+    margin-left: 32px;
+}
+
+/***********Comienza la seccion 5************/
+
+.press{
+	font-weight: bolder;
+	font-size: 50px;
+}
+
+#press p{
+	font-size: 20px;
+}
+
+.first-text{
+	font-size: 25px;
+	display: block;
+}
+
+.second-text{
+	font-size: 25px;
+	padding-bottom: 50px;
+}
+
+
+#press .parrafo {
+    padding-bottom: 50px;
+    height: 150px;
+    width: 1000px;
+    padding-left: 160px;
+    padding-top: 62px;
 }
