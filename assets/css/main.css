@@ -34,11 +34,34 @@
 	font-size: 50px;
 	font-weight: bolder;
 	padding-top: 80px;
+	padding-bottom: 50px;
 }
 
 #values{
 	margin-bottom: 100px;
 }
+
+#values p{
+	font-size: 20px;
+}
+
+#values .fa{
+	font-size: 40px;
+}
+
+#values h1{
+	font-weight: bolder;
+}
+
+.lista{
+	padding: 0 74px;
+}
+
+
+#values li{
+	padding-bottom: 20px;
+}
+
 
 /**********Comienza la seccion 3***********/
 
@@ -48,4 +71,38 @@
 	background-position: center;
 	background-size: cover;
 	height: 700px;
+	color: whitesmoke;
+}
+
+.text-2{
+	display: block;
+	padding-top: 120px;
+}
+
+.btn-mio{
+	background-color: transparent;
+	padding: 12px;
+	margin-top: 50px;
+	font-size: 17px;
+	color: whitesmoke;
+	font-weight: bolder;
+}
+
+
+/*********Comienza la seccion 4**********/
+
+#people p{
+	font-size: 20px;
+}
+
+.imagenes{
+	padding: 30px 0;
+	padding-left: 30px;
+}
+
+.people{
+	font-size: 50px;
+	font-weight: bolder;
+	padding-top: 80px;
+	padding-bottom: 50px;
 }
